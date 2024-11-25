@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m Varun from INDIA.<br>👀 I’m interested in Web development and  Machine learning.<br>🌱 I’m currently learning ReactJS and Deep neural networks.<br>💞️ I’m looking to collaborate on Web dev project.<br>📫 How to reach me :- marvellous079@gmail.com<br>😊 Ask me about- Anything.
+👋 Hi, I’m Varun from INDIA.<br>👀 I’m interested in Web development and  Machine learning.<br>🌱 I’m currently learning ReactJS and Deep neural networks.<br>💞️ I’m looking to collaborate on Web dev and ML project.<br>📫 How to reach me :- marvellous079@gmail.com<br>😊 Ask me about- Anything.
 
 
 ## 🌐 Socials:
