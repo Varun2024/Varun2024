@@ -5,7 +5,7 @@
 🤝 Looking to collaborate on Web Dev and ML projects<br>
 📬 Reach me at: varunshukla747@gmail.com<br>
 💼 Intern @ Grainkart Pvt. Ltd.<br>
-🧪 Working on a Federated Learning algorithm to facilitate 🧠 tumor detection<br>
+🧪 Working on a Federated Learning algorithm to facilitate 🧠 tumor detection in IIT Bhilai<br>
 💬 Ask me anything — I love sharing and learning!
 
 
