@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m Varun from INDIA.<br>👀 I’m interested in Web development and Machine learning.<br>🌱 I’m currently learning NextJS and Deep neural networks.<br>💞️ I’m looking to collaborate on Web dev and ML project.<br>📫 How to reach me :- varunshukla747@gmail.com<br>😊 Ask me about- Anything.
+👋 Hi, I’m Varun from India<br>
+💻 I'm passionate about Web Development and 🤖 Machine Learning<br>
+🌱 Currently learning Next.js and 🧠 Deep Neural Networks, striving toward becoming a Backend Developer too<br>
+🤝 Looking to collaborate on Web Dev and ML projects<br>
+📬 Reach me at: varunshukla747@gmail.com<br>
+💼 Intern @ Grainkart Pvt. Ltd.<br>
+🧪 Working on a Federated Learning algorithm to facilitate 🧠 tumor detection<br>
+💬 Ask me anything — I love sharing and learning!
 
 
 # 💻 Tech Stack:
