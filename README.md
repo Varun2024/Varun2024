@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Varun from India<br>
 💻 I'm passionate about Web Development and 🤖 Machine Learning<br>
-🌱 Currently learning Next.js and 🧠 Deep Neural Networks, striving toward becoming a Backend Developer too<br>
+🌱 Currently learning Next.js and 🧠 Deep Neural Networks, training a model to help the community<br>
 🤝 Looking to collaborate on Web Dev and ML projects<br>
 📬 Reach me at: varunshukla747@gmail.com<br>
 💼 Intern @ Grainkart Pvt. Ltd.<br>
