@@ -1,8 +1,8 @@
 <h1 align="center">Varun Shukla</h1>
-<h3 align="center">I turn chai into code<h3>
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5jMWU5YTQ4ZTdqNzM0Mzh0MnFmMDM2NWR2bndqZmVrZHowajN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5jMWU5YTQ4ZTdqNzM0Mzh0MnFmMDM2NWR2bndqZmVrZHowajN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="1000" height="400" />
 </p>
+<h3 align="center">I turn chai into code<h3>
 <p align="center">
 <a href="https://linkedin.com/in/varun-shukla-codes" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-username" /></a>
 <a href="https://x.com/TheV_Stack" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="your-username" /></a>
