@@ -98,8 +98,9 @@ Exploring generative models to compose adaptive background music.
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/Varun2024/Varun2024.json&style=for-the-badge&label=Profile%20Views" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Varun2024&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Varun2024 profile views" />
 </p>
+
 
 ---
 
