@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-👋 Hi, I’m **Varun**, a **Frontend Developer** and **AI Enthusiast** from 🇮🇳 India.  
+👋 Hi, I’m **Varun**, a **Web Developer** and **RAG engineer** from 🇮🇳 India.  
 I build intuitive, performant, and visually engaging web interfaces — and love blending them with intelligence through AI.  
 
 - 💻 Passionate about **React**, **Next.js**, and **modern UI/UX engineering**.  
