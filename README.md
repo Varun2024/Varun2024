@@ -21,59 +21,94 @@
 
 ## 👨‍💻 About Me
 
-👋 Hi, I’m **Varun**, a **Web Developer** and **RAG engineer** from 🇮🇳 India.  
-I build intuitive, performant, and visually engaging web interfaces — and love blending them with intelligence through AI.  
+👋 Hi, I’m **Varun**, a **Full Stack Developer** with a strong interest in **AI-powered applications** and the **React ecosystem**, based in 🇮🇳 India.  
+I enjoy building clean, performant, and user-friendly products — and extending them with intelligence where it actually adds value.
 
-- 💻 Passionate about **React**, **Next.js**, and **modern UI/UX engineering**.  
-- 🧠 Exploring **Deep Learning**, **Computer Vision**, and **Generative AI**.  
-- 🧪 Currently working on **Federated Learning** for brain tumor detection at **IIT Bhilai**.  
-- 💼 Former **Frontend Intern @ Grainkart Pvt. Ltd.**, where I built **GrainScope**, an image-based grain report and visualization system.  
-- 🤝 Open to collaborations in **Web Development** and **AI-powered applications**.  
+- 💻 Strong focus on **React**, **Next.js**, and **modern frontend engineering**
+- 📱 Currently exploring **React Native + Expo** for mobile-first applications
+- 🧠 Hands-on experience with **Machine Learning**, **Computer Vision**, and **RAG-based systems**
+- 🧪 Working on **Federated Learning for brain tumor detection** as part of an academic project
+- 💼 Former **Software Developer Intern @ GrainKart Pvt. Ltd.**, where I worked on **GrainScope**, an image-based grain analysis and reporting platform
+- 🤝 Open to roles and collaborations in **Full Stack Development**, **Frontend Engineering**, and **AI-driven products**
 - 📬 Reach me at **varunshukla747@gmail.com**
-
----
 
 ## 🧠 Core Skills
 
-**Frontend Development:**  
-React.js · Next.js · JavaScript (ES6+) · Tailwind CSS · Redux · React Hook Form · Responsive UI Design  
+### Frontend & Mobile Development
+- React.js  
+- Next.js  
+- React Native  
+- Expo  
+- JavaScript (ES6+)  
+- Tailwind CSS  
+- Pure CSS  
+- Responsive UI Design  
 
-**AI & Machine Learning:**  
-Python · YOLOv8 · OpenCV · PyTorch · TensorFlow · scikit-learn · Federated Learning · OCR  
+### Backend & APIs
+- Node.js  
+- Express  
+- Flask  
+- REST APIs  
+- Firebase  
+- PostgreSQL  
 
-**Backend & Tools:**  
-Flask · Firebase · PostgreSQL · Git · GitHub · Netlify · Vercel · Anaconda  
+### AI & Machine Learning
+- Python  
+- PyTorch  
+- TensorFlow  
+- OpenCV  
+- YOLOv8  
+- OCR  
+- Retrieval-Augmented Generation (RAG)  
+- Federated Learning  
 
-**Visualization:**  
-Plotly.js · Matplotlib · Pandas · NumPy · Three.js · Canvas API  
+### Data & Visualization
+- Plotly.js  
+- Canvas API  
+- Matplotlib  
+- Pandas  
+- NumPy  
+
+### Tools & Deployment
+- Git  
+- GitHub  
+- Vercel  
+- Netlify  
+- Streamlit  
+- Docker (basic)  
+- Postman  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌾 [GrainScope](#)
-**Tech:** React, Plotly.js, Tailwind CSS  
-A modern grain visualization & reporting platform — integrates image plotting, canvas filtering, and WhatsApp sharing for agricultural data insights.
+### 🌾 GrainScope — AI-powered Grain Analysis Platform
+**Tech:** React, Plotly.js, Tailwind CSS, Canvas API  
+An image-based grain visualization and reporting system built during my internship at GrainKart. Supports interactive plotting, grain labeling, filtering, report generation, and WhatsApp sharing for agricultural insights.
 
-### 🧍‍♂️ [Object Detection for Retail](#)
-**Tech:** YOLOv8, OpenCV, Python  
-Custom-trained model to detect product SKUs and price tags from retail shelf images.
+---
 
-### 🎨 [Live Whiteboard](#)
-**Tech:** React, Canvas API, Socket.io  
-A collaborative real-time whiteboard built for brainstorming and visual interaction.
+### 🧠 Brain Tumor Detection System (Academic Project)
+**Tech:** Python, DenseNet-110, OpenCV, Streamlit  
+End-to-end medical imaging system combining **Canny edge detection** and deep learning to detect brain tumors from MRI scans, deployed via an interactive Streamlit app.
 
-### 🎵 [Generative Music AI](#)
-**Tech:** Python, Deep Learning  
-Exploring generative models to compose adaptive background music.
+---
+
+### 🛍️ E-commerce Platform for Clothing Brand
+**Tech:** React, Node.js, Cloudinary, Payment Gateway  
+Designed, developed, deployed, and maintained a full e-commerce website with admin panel, secure payments, media optimization, and SEO — resulting in a **60% increase in customer interaction**.
+
+---
+
+### 📱 Mobile App (React Native — In Progress)
+**Tech:** React Native, Expo  
+Currently building a mobile-first application using React Native and Expo, focusing on performance, clean UI, and scalable architecture.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css,python,opencv,flask,git,github,vercel,netlify,figma,pytorch,tensorflow" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css,python,flask,nodejs,express,postgres,firebase,git,github,vercel,netlify,pytorch,tensorflow,figma" /> </p>
 
 ---
 
