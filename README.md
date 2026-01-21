@@ -28,7 +28,8 @@ I enjoy building clean, performant, and user-friendly products — and extending
 - 📱 Currently exploring **React Native + Expo** for mobile-first applications
 - 🧠 Hands-on experience with **Machine Learning**, **Computer Vision**, and **RAG-based systems**
 - 🧪 Working on **Federated Learning for brain tumor detection** as part of an academic project
-- 💼 Former **Software Developer Intern @ GrainKart Pvt. Ltd.**, where I worked on **GrainScope**, an image-based grain analysis and reporting platform
+- 💼 Former **Software Developer Intern @GrainKart Pvt. Ltd.**, where I worked on **GrainScope**, an image-based grain analysis and reporting platform
+- 🏢 Currently ** SDE at @Chainframe **
 - 🤝 Open to roles and collaborations in **Full Stack Development**, **Frontend Engineering**, and **AI-driven products**
 - 📬 Reach me at **varunshukla747@gmail.com**
 
