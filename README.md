@@ -4,144 +4,251 @@
    Includes dynamic badges, GIF banner, and subtle animation
 -->
 
-<h1 align="center">✨ Varun Shukla</h1>
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5jMWU5YTQ4ZTdqNzM0Mzh0MnFmMDM2NWR2bndqZmVrZHowajN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="1000" height="400" alt="banner"/>
-</p>
-
-<h3 align="center">☕ I turn chai into code, and ideas into reality.</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/varun-shukla-codes" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/TheV_Stack" target="blank"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://varunxbuilds.web.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5jMWU5YTQ4ZTdqNzM0Mzh0MnFmMDM2NWR2bndqZmVrZHowajN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" />
+  
+  <h1>✨ Varun Shukla</h1>
+  
+  <p>
+    <strong>Full Stack Developer | AI Enthusiast | React Specialist</strong>
+  </p>
+  
+  <p>☕ I turn chai into code, and ideas into reality.</p>
+  
+  <p>
+    <a href="https://linkedin.com/in/varun-shukla-codes" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://x.com/TheV_Stack" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://varunxbuilds.web.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:varunshukla747@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-👋 Hi, I’m **Varun**, a **Full Stack Developer** with a strong interest in **AI-powered applications** and the **React ecosystem**, based in 🇮🇳 India.  
-I enjoy building clean, performant, and user-friendly products — and extending them with intelligence where it actually adds value.
+👋 Hi, I'm **Varun Shukla**, a passionate **Full Stack Developer** specializing in **AI-powered applications** and the **React ecosystem**, based in 🇮🇳 India.
 
-- 💻 Strong focus on **React**, **Next.js**, and **modern frontend engineering**
-- 📱 Currently exploring **React Native + Expo** for mobile-first applications
-- 🧠 Hands-on experience with **Machine Learning**, **Computer Vision**, and **RAG-based systems**
-- 🧪 Working on **Federated Learning for brain tumor detection** as part of an academic project
-- 💼 Former **Software Developer Intern @GrainKart Pvt. Ltd.**, where I worked on **GrainScope**, an image-based grain analysis and reporting platform
-- 🏢 Currently **SDE at @Chainframe**
-- 🤝 Open to roles and collaborations in **Full Stack Development**, **Frontend Engineering**, and **AI-driven products**
-- 📬 Reach me at **varunshukla747@gmail.com**
+I build clean, performant, and user-centric products that leverage modern web technologies and intelligent systems to solve real-world problems.
 
-## 🧠 Core Skills
+```typescript
+const varun = {
+  location: "India 🇮🇳",
+  currentRole: "Software Development Engineer @ Chainframe",
+  education: "B.Tech in Computer Science",
+  interests: ["Full Stack Development", "AI/ML", "Mobile Development", "Open Source"],
+  currentlyLearning: ["React Native", "Federated Learning", "System Design"],
+  lifePhilosophy: "Building interfaces that think — and systems that feel."
+};
+```
 
-### Frontend & Mobile Development
-- React.js  
-- Next.js  
-- React Native  
-- Expo  
-- JavaScript (ES6+)  
-- Tailwind CSS  
-- Pure CSS  
-- Responsive UI Design  
+### 🎯 Current Focus
+- 💼 **Software Development Engineer** at **Chainframe** — building scalable web applications
+- 📱 Developing **mobile-first applications** using **React Native + Expo**
+- 🧠 Researching **Federated Learning** for privacy-preserving brain tumor detection
+- 🤝 Open to **collaborations** in Full Stack Development, AI/ML, and Frontend Engineering
 
-### Backend & APIs
-- Node.js  
-- Express  
-- Flask  
-- REST APIs  
-- Firebase  
-- PostgreSQL  
-
-### AI & Machine Learning
-- Python  
-- PyTorch  
-- TensorFlow  
-- OpenCV  
-- YOLOv8  
-- OCR  
-- Retrieval-Augmented Generation (RAG)  
-- Federated Learning  
-
-### Data & Visualization
-- Plotly.js  
-- Canvas API  
-- Matplotlib  
-- Pandas  
-- NumPy  
-
-### Tools & Deployment
-- Git  
-- GitHub  
-- Vercel  
-- Netlify  
-- Streamlit  
-- Docker (basic)  
-- Postman  
-
----
-
-## 🚀 Featured Projects
-
-### 🌾 GrainScope — AI-powered Grain Analysis Platform
-**Tech:** React, Plotly.js, Tailwind CSS, Canvas API  
-An image-based grain visualization and reporting system built during my internship at GrainKart. Supports interactive plotting, grain labeling, filtering, report generation, and WhatsApp sharing for agricultural insights.
-
----
-
-### 🧠 Brain Tumor Detection System (Academic Project)
-**Tech:** Python, DenseNet-110, OpenCV, Streamlit  
-End-to-end medical imaging system combining **Canny edge detection** and deep learning to detect brain tumors from MRI scans, deployed via an interactive Streamlit app.
-
----
-
-### 🛍️ E-commerce Platform for Clothing Brand
-**Tech:** React, Node.js, Cloudinary, Payment Gateway  
-Designed, developed, deployed, and maintained a full e-commerce website with admin panel, secure payments, media optimization, and SEO — resulting in a **60% increase in customer interaction**.
-
----
-
-### 📱 Mobile App (React Native — In Progress)
-**Tech:** React Native, Expo  
-Currently building a mobile-first application using React Native and Expo, focusing on performance, clean UI, and scalable architecture.
+### 💡 Past Experience
+- 💻 **Software Developer Intern** @ **GrainKart Pvt. Ltd.** — Built **GrainScope**, an AI-powered grain analysis and reporting platform
+- 🏆 Led development of **e-commerce platforms** with **60% increase** in customer engagement
+- 🔬 Academic research in **Medical Imaging** and **Computer Vision**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,html,css,python,flask,nodejs,express,postgres,firebase,git,github,vercel,netlify,pytorch,tensorflow,figma" /> </p>
+<div align="center">
+
+### 💻 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Insights
+## 🚀 Featured Projects
 
-<p align="center">
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Varun2024&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varun2024&show_icons=true&theme=radical&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2024&layout=compact&theme=radical&hide_border=true" />
-</p>
+### 🌾 GrainScope
+**AI-powered Grain Analysis Platform**
+
+Built during my internship at GrainKart — a comprehensive grain visualization and reporting system.
+
+**Tech Stack:**
+- React.js, Plotly.js, Tailwind CSS
+- Canvas API, Image Processing
+- WhatsApp Integration
+
+**Features:**
+- 📊 Interactive data visualization
+- 🏷️ Grain labeling & filtering
+- 📄 Automated report generation
+- 📱 WhatsApp sharing functionality
+
+</td>
+<td width="50%">
+
+### 🧠 Federated Brain Tumor Detection
+**Privacy-Preserving Medical AI System**
+
+Academic research project combining federated learning with computer vision.
+
+**Tech Stack:**
+- Python, DenseNet-110, OpenCV
+- Federated Learning Framework
+- Streamlit
+
+**Features:**
+- 🔒 Privacy-preserving model training
+- 🎯 High-accuracy tumor detection
+- 🖼️ Canny edge detection preprocessing
+- 🌐 Interactive web deployment
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛍️ E-commerce Platform
+**Full-Stack Clothing Brand Website**
+
+End-to-end e-commerce solution with admin panel and payment integration.
+
+**Tech Stack:**
+- React, Node.js, Express
+- Cloudinary, Payment Gateway
+- PostgreSQL
+
+**Impact:**
+- 📈 60% increase in customer interaction
+- 💳 Secure payment processing
+- 🎨 Responsive, SEO-optimized design
+
+</td>
+<td width="50%">
+
+### 📱 React Native Mobile App
+**Mobile-First Application** *(In Progress)*
+
+Building a cross-platform mobile application with focus on performance and UX.
+
+**Tech Stack:**
+- React Native, Expo
+- TypeScript
+- Modern UI/UX patterns
+
+**Goals:**
+- ⚡ High performance
+- 🎨 Clean, intuitive UI
+- 📱 Cross-platform compatibility
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✨ Quote for Today
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Varun2024&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2024&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varun2024&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Varun2024 profile views" />
-</p>
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Varun2024&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-<p align="center">
-  <em>“Building interfaces that think — and systems that feel.”</em> 🧩  
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun2024&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 💭 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+I'm always interested in collaborating on innovative projects, discussing tech, or exploring new opportunities.
+
+**📧 Email:** [varunshukla747@gmail.com](mailto:varunshukla747@gmail.com)  
+**💼 LinkedIn:** [varun-shukla-codes](https://linkedin.com/in/varun-shukla-codes)  
+**🐦 Twitter:** [@TheV_Stack](https://x.com/TheV_Stack)  
+**🌐 Portfolio:** [varunxbuilds.web.app](https://varunxbuilds.web.app/)
+
+<img src="https://komarev.com/ghpvc/?username=Varun2024&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+  <em>"Building interfaces that think — and systems that feel."</em> 🧩
+  
+  ⭐ **Open to freelance projects and full-time opportunities** ⭐
+</div>
 
 <!-- End of README -->
