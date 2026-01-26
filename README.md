@@ -42,8 +42,8 @@ I build clean, performant, and user-centric products that leverage modern web te
 ```typescript
 const varun = {
   location: "India 🇮🇳",
-  currentRole: "Software Development Engineer @ Chainframe",
-  education: "B.Tech in Computer Science",
+  currentRole: "SDE intern @ Chainframe",
+  education: "B.Tech in Information Technology",
   interests: ["Full Stack Development", "AI/ML", "Mobile Development", "Open Source"],
   currentlyLearning: ["React Native", "Federated Learning", "System Design"],
   lifePhilosophy: "Building interfaces that think — and systems that feel."
