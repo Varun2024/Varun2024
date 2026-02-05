@@ -10,7 +10,7 @@
   <h1>✨ Varun Shukla</h1>
   
   <p>
-    <strong>Full Stack Developer | AI Enthusiast | React Specialist</strong>
+    <strong>Full Stack Developer | AI | React | Nextjs</strong>
   </p>
   
   <p>☕ I turn chai into code, and ideas into reality.</p>
