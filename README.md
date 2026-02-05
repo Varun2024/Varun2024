@@ -51,7 +51,7 @@ const varun = {
 ```
 
 ### 🎯 Current Focus
-- 💼 **Software Development Engineer** at **Chainframe** — building scalable web applications
+- 💼 **Software Development Engineer** at **Chainframe** — building scalable web and mobile applications
 - 📱 Developing **mobile-first applications** using **React Native + Expo**
 - 🧠 Researching **Federated Learning** for privacy-preserving brain tumor detection
 - 🤝 Open to **collaborations** in Full Stack Development, AI/ML, and Frontend Engineering
