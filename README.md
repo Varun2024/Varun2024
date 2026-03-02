@@ -13,7 +13,7 @@
     <strong>Full Stack Developer | AI | React | Nextjs</strong>
   </p>
   
-  <p>☕ I turn chai into code, and ideas into reality.</p>
+  <p>☕ Constructing scalable systems, and ideas into reality.</p>
   
   <p>
     <a href="https://linkedin.com/in/varun-shukla-codes" target="_blank">
