@@ -204,14 +204,6 @@ Building a cross-platform mobile application with focus on performance and UX.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varun2024&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
