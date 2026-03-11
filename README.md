@@ -1,20 +1,21 @@
 <!--
    🚀 GitHub Profile README: Varun Shukla
    Designed for both professionalism & personality
-   Includes dynamic badges, GIF banner, and subtle animation
+   Includes dynamic badges, clean sections, and project-first layout
 -->
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5jMWU5YTQ4ZTdqNzM0Mzh0MnFmMDM2NWR2bndqZmVrZHowajN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" />
-  
-  <h1>✨ Varun Shukla</h1>
-  
+  <!-- Banner (replaceable): generated via capsule-render (no hosting needed) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Varun%20Shukla&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20React%20%7C%20Next.js&descAlignY=60" width="100%" alt="Varun Shukla banner" />
+
+  <h1>Varun Shukla</h1>
+
   <p>
-    <strong>Full Stack Developer | AI | React | Nextjs</strong>
+    <strong>Full Stack Developer | AI | React | Next.js</strong>
   </p>
-  
-  <p>☕ Constructing scalable systems, and ideas into reality.</p>
-  
+
+  <p>Building scalable systems and turning ideas into shipped products.</p>
+
   <p>
     <a href="https://linkedin.com/in/varun-shukla-codes" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -29,15 +30,17 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Varun2024&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-👋 Hi, I'm **Varun Shukla**, a passionate **Full Stack Developer** specializing in **AI-powered applications** and the **React ecosystem**, based in 🇮🇳 India.
+👋 Hi, I'm **Varun Shukla** — a **Full Stack Developer** focused on **AI-powered apps** and the **React ecosystem**, based in 🇮🇳 India.
 
-I build clean, performant, and user-centric products that leverage modern web technologies and intelligent systems to solve real-world problems.
+I enjoy building clean, performant, and user-centric products using modern web technologies, strong engineering fundamentals, and pragmatic AI.
 
 ```typescript
 const varun = {
@@ -45,25 +48,20 @@ const varun = {
   currentRole: "SDE intern @ Chainframe",
   education: "B.Tech in Information Technology",
   interests: ["Full Stack Development", "AI/ML", "Mobile Development", "Open Source"],
-  currentlyLearning: ["React Native", "Federated Learning", "System Design"],
-  lifePhilosophy: "Building interfaces that think — and systems that feel."
+  currentlyLearning: ["React Native", "System Design", "Federated Learning"],
+  lifePhilosophy: "Build interfaces that think — and systems that feel."
 };
 ```
 
 ### 🎯 Current Focus
-- 💼 **Software Development Engineer** at **Chainframe** — building scalable web and mobile applications
-- 📱 Developing **mobile-first applications** using **React Native + Expo**
-- 🧠 Researching **Federated Learning** for privacy-preserving brain tumor detection
-- 🤝 Open to **collaborations** in Full Stack Development, AI/ML, and Frontend Engineering
-
-### 💡 Past Experience
-- 💻 **Software Developer Intern** @ **GrainKart Pvt. Ltd.** — Built **GrainScope**, an AI-powered grain analysis and reporting platform
-- 🏆 Led development of **e-commerce platforms** with **60% increase** in customer engagement
-- 🔬 Academic research in **Medical Imaging** and **Computer Vision**
+- 💼 **Software Development Engineer** at **Chainframe** — scalable web & mobile apps
+- 📱 **React Native + Expo** for mobile-first products
+- 🧠 Exploring **Federated Learning** for privacy-preserving medical AI
+- 🤝 Open to **collaboration** (Full Stack, Frontend, AI/ML)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Skills (What I use to ship)
 
 <div align="center">
 
@@ -71,80 +69,68 @@ const varun = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Database
+### ⚙️ Backend, APIs & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🤖 AI/ML & Data Science
+### 🤖 AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🚀 DevOps & Tools
+### 🚀 DevOps & Tooling
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Best Projects (Updated)
+
+> Share your latest best projects here (links + short metrics). If you want, paste your top 3–6 repos and I’ll tailor the copy to match each one.
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🌾 GrainScope
-**AI-powered Grain Analysis Platform**
+**AI-powered Grain Analysis & Reporting**
 
-Built during my internship at GrainKart — a comprehensive grain visualization and reporting system.
+Built at **GrainKart** — grain visualization, analysis, and shareable reporting.
 
-**Tech Stack:**
-- React.js, Plotly.js, Tailwind CSS
-- Canvas API, Image Processing
-- WhatsApp Integration
+**Highlights**
+- Interactive dashboards & filtering
+- Automated report generation
+- WhatsApp sharing integration
 
-**Features:**
-- 📊 Interactive data visualization
-- 🏷️ Grain labeling & filtering
-- 📄 Automated report generation
-- 📱 WhatsApp sharing functionality
+**Tech**: React, Plotly, Tailwind, Canvas API
 
 </td>
 <td width="50%">
 
 ### 🧠 Federated Brain Tumor Detection
-**Privacy-Preserving Medical AI System**
+**Privacy-preserving Medical AI (Research)**
 
-Academic research project combining federated learning with computer vision.
+Federated learning + CV pipeline for tumor classification & analysis.
 
-**Tech Stack:**
-- Python, DenseNet-110, OpenCV
-- Federated Learning Framework
-- Streamlit
+**Highlights**
+- Privacy-preserving training workflow
+- Preprocessing pipeline (edge detection)
+- Interactive demo via Streamlit
 
-**Features:**
-- 🔒 Privacy-preserving model training
-- 🎯 High-accuracy tumor detection
-- 🖼️ Canny edge detection preprocessing
-- 🌐 Interactive web deployment
+**Tech**: Python, OpenCV, DenseNet, Streamlit
 
 </td>
 </tr>
@@ -153,37 +139,31 @@ Academic research project combining federated learning with computer vision.
 <td width="50%">
 
 ### 🛍️ E-commerce Platform
-**Full-Stack Clothing Brand Website**
+**Full-stack commerce + admin + payments**
 
-End-to-end e-commerce solution with admin panel and payment integration.
+End-to-end platform with secure payments and admin workflows.
 
-**Tech Stack:**
-- React, Node.js, Express
-- Cloudinary, Payment Gateway
-- PostgreSQL
+**Highlights**
+- Admin panel & product management
+- Optimized UX + responsive UI
+- Secure payment flow
 
-**Impact:**
-- 📈 60% increase in customer interaction
-- 💳 Secure payment processing
-- 🎨 Responsive, SEO-optimized design
+**Tech**: React, Node.js, Express, PostgreSQL
 
 </td>
 <td width="50%">
 
 ### 📱 React Native Mobile App
-**Mobile-First Application** *(In Progress)*
+**Cross-platform app (in progress)**
 
-Building a cross-platform mobile application with focus on performance and UX.
+Mobile-first app focusing on performance and UX patterns.
 
-**Tech Stack:**
-- React Native, Expo
-- TypeScript
-- Modern UI/UX patterns
+**Highlights**
+- Expo + TypeScript architecture
+- Modular UI + navigation
+- Focus on performance and clean UX
 
-**Goals:**
-- ⚡ High performance
-- 🎨 Clean, intuitive UI
-- 📱 Cross-platform compatibility
+**Tech**: React Native, Expo, TypeScript
 
 </td>
 </tr>
@@ -212,35 +192,21 @@ Building a cross-platform mobile application with focus on performance and UX.
 
 ---
 
-## 💭 Dev Quote
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-I'm always interested in collaborating on innovative projects, discussing tech, or exploring new opportunities.
 
 **📧 Email:** [varunshukla747@gmail.com](mailto:varunshukla747@gmail.com)  
 **💼 LinkedIn:** [varun-shukla-codes](https://linkedin.com/in/varun-shukla-codes)  
 **🐦 Twitter:** [@TheV_Stack](https://x.com/TheV_Stack)  
 **🌐 Portfolio:** [varunxbuilds.web.app](https://varunxbuilds.web.app/)
 
-<img src="https://komarev.com/ghpvc/?username=Varun2024&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-
 </div>
 
 ---
 
 <div align="center">
-  <em>"Building interfaces that think — and systems that feel."</em> 🧩
+  <em>"Build interfaces that think — and systems that feel."</em>
   
   ⭐ **Open to freelance projects and full-time opportunities** ⭐
 </div>
-
-<!-- End of README -->
