@@ -6,12 +6,12 @@
 
 <div align="center">
   <!-- Banner (replaceable): generated via capsule-render (no hosting needed) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Varun%20Shukla&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20React%20%7C%20Next.js&descAlignY=60" width="100%" alt="Varun Shukla banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Varun%20Shukla&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Next.js%20%7C%20React%20%7C%20Python&descAlignY=60" width="100%" alt="Varun Shukla banner" />
 
   <h1>Varun Shukla</h1>
 
   <p>
-    <strong>Full Stack Developer | AI | Next.js | React| Python</strong>
+    <strong>Full Stack Developer | AI | Next.js | React | Python</strong>
   </p>
 
   <p>Building scalable systems and turning ideas into shipped products.</p>
