@@ -11,7 +11,7 @@
   <h1>Varun Shukla</h1>
 
   <p>
-    <strong>Full Stack Developer | AI | React | Next.js</strong>
+    <strong>Full Stack Developer | AI | Next.js | React| Python</strong>
   </p>
 
   <p>Building scalable systems and turning ideas into shipped products.</p>
