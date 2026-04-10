@@ -173,12 +173,20 @@ Mobile-first app focusing on performance and UX patterns.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Varun2024&theme=tokyonight&hide_border=true"/>
+
+  <!-- Main Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Varun2024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+
+  <!-- Streak Stats (fixed provider) -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=Varun2024&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2024&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2024&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
 </div>
 
 ---
