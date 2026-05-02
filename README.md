@@ -1,33 +1,35 @@
 <!--
-   🚀 GitHub Profile README: Varun Shukla
-   Designed for both professionalism & personality
-   Includes dynamic badges, clean sections, and project-first layout
+  Varun Shukla — GitHub profile README
+  Refreshed: 2026-05-03
+  Repo: github.com/Varun2024/Varun2024
 -->
 
 <div align="center">
-  <!-- Banner (replaceable): generated via capsule-render (no hosting needed) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Varun%20Shukla&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Next.js%20%7C%20React%20%7C%20Python&descAlignY=60" width="100%" alt="Varun Shukla banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Varun%20Shukla&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Mobile%20%E2%80%A2%20Agent%20Tooling&descAlignY=60" width="100%" alt="Varun Shukla banner" />
 
-  <h1>Varun Shukla</h1>
+  <h1>Hey, I'm Varun 👋</h1>
 
   <p>
-    <strong>Full Stack Developer | AI | Next.js | React | Python</strong>
+    <strong>Full Stack Developer · AI / ML · React Native · MCP &amp; Agent Tooling</strong>
   </p>
 
-  <p>Building scalable systems and turning ideas into shipped products.</p>
+  <p>I build interfaces that think — and systems that feel. Based in 🇮🇳 Raipur, India.</p>
 
   <p>
     <a href="https://linkedin.com/in/varun-shukla-codes" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://x.com/TheV_Stack" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+      <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/>
     </a>
     <a href="https://varunxbuilds.web.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="mailto:varunshukla747@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/prodigy-ai-flow" target="_blank">
+      <img src="https://img.shields.io/badge/Org-prodigy--ai--flow-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Org"/>
     </a>
   </p>
 
@@ -36,44 +38,48 @@
 
 ---
 
-## 👨‍💻 About Me
-
-👋 Hi, I'm **Varun Shukla** — a **Full Stack Developer** focused on **AI-powered apps** and the **React ecosystem**, based in 🇮🇳 India.
-
-I enjoy building clean, performant, and user-centric products using modern web technologies, strong engineering fundamentals, and pragmatic AI.
+## 🧠 About
 
 ```typescript
 const varun = {
-  location: "India 🇮🇳",
-  currentRole: "SDE intern @ Chainframe",
-  education: "B.Tech in Information Technology",
-  interests: ["Full Stack Development", "AI/ML", "Mobile Development", "Open Source"],
-  currentlyLearning: ["React Native", "System Design", "Federated Learning"],
-  lifePhilosophy: "Build interfaces that think — and systems that feel."
+  role:       "Software Development Engineer @ Flux-fortify",
+  building:   "AI agents, MCP tooling & mobile-first products @prodigy-ai-flow",
+  location:   "Raipur, India 🇮🇳",
+  education:  "B.Tech, Information Technology",
+  stack:      ["TypeScript", "Next.js", "React Native", "Node", "Python", "PyTorch"],
+  exploring:  ["MCP servers", "Agent harnesses", "Edge CV", "Federated Learning"],
+  philosophy: "Build interfaces that think — and systems that feel."
 };
 ```
 
-### 🎯 Current Focus
-- 💼 **Software Development Engineer** at **Chainframe** — scalable web & mobile apps
-- 📱 **React Native + Expo** for mobile-first products
-- 🧠 Exploring **Federated Learning** for privacy-preserving medical AI
-- 🤝 Open to **collaboration** (Full Stack, Frontend, AI/ML)
+I like shipping. Whether that's a Next.js dashboard, a React Native app, a Python CV pipeline, or an MCP-powered agent driving a live WordPress site end-to-end — the goal is the same: make it usable, make it fast, make it feel inevitable.
 
 ---
 
-## 🧩 Skills (What I use to ship)
+## ⚡ Currently Building
+
+- 🤖 **AI agent harnesses** — MCP servers driving live WordPress / Elementor sites end-to-end
+- 🎥 **CV pipelines** — surveillance clipping, transcription, and event summarization on CCTV
+- 📱 **React Native + Expo** — mobile-first products with clean architecture
+- 🧬 **Federated Learning** — privacy-preserving medical AI research
+- 🧱 **Component libraries** — opinionated, reusable primitives for fast Next.js builds
+
+---
+
+## 🛠️ Stack
 
 <div align="center">
 
-### 💻 Frontend & Mobile
+**Frontend / Mobile**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-### ⚙️ Backend, APIs & Databases
+**Backend / Data**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -81,88 +87,113 @@ const varun = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🤖 AI/ML
+**AI / ML / Vision**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🚀 DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Agents / DevOps / Tooling**  
+![MCP](https://img.shields.io/badge/MCP-1f6feb?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Best Projects (Updated)
+## 🌟 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧩 NavUI
-**Reusable UI components for fast product builds**
+### 🧩 [NavUI](https://github.com/Varun2024/navui)
+**Navbar component library for Next.js**
 
-A UI kit / component library focused on clean design, accessibility, and developer experience.
+Drop-in, themeable navbar primitives focused on accessibility and DX. Built to copy, paste, and ship.
 
-**Highlights**
-- Reusable, responsive components
-- Consistent design system + theming
-- Built for speed: copy/paste friendly, easy customization
-
-**Tech**: React, TypeScript, Tailwind CSS
+`Next.js` · `TypeScript` · `Tailwind`
 
 </td>
 <td width="50%">
 
-### 🧠 Federated Brain Tumor Detection
-**Privacy-preserving Medical AI (Research)**
+### 🏀 [BB-Bot](https://github.com/Varun2024/BB-bot)
+**Basketball coach on your fingertips**
 
-Federated learning + CV pipeline for tumor classification & analysis.
+Conversational coach assistant. Live demo at [bb-bot.vercel.app](https://bb-bot.vercel.app).
 
-**Highlights**
-- Privacy-preserving training workflow
-- Preprocessing pipeline (edge detection)
-- Interactive demo via Streamlit
-
-**Tech**: Python, OpenCV, DenseNet, Streamlit
+`Next.js` · `TypeScript` · `LLM`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 🛍️ E-commerce Platform
-**Full-stack commerce + admin + payments**
+### 🎥 [Event Summarizer CCTV](https://github.com/Varun2024/Event_summarizer_cctv)
+**Computer-vision pipeline for surveillance footage**
 
-End-to-end platform with secure payments and admin workflows.
+Processes CCTV streams, extracts event clips, and summarizes activity windows.
 
-**Highlights**
-- Admin panel & product management
-- Optimized UX + responsive UI
-- Secure payment flow
-
-**Tech**: React, Node.js, Express, PostgreSQL
+`Python` · `OpenCV` · `CV`
 
 </td>
 <td width="50%">
 
-### 📱 React Native Mobile App
-**Cross-platform app (in progress)**
+### 🦯 [Smart Walking Vision](https://github.com/Varun2024/smart-walking-vision)
+**Real-time assistive vision**
 
-Mobile-first app focusing on performance and UX patterns.
+Obstacle-detection system aimed at accessibility for the visually impaired.
 
-**Highlights**
-- Expo + TypeScript architecture
-- Modular UI + navigation
-- Focus on performance and clean UX
+`Python` · `OpenCV` · `YOLO`
 
-**Tech**: React Native, Expo, TypeScript
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🪪 [Signal-Desk](https://github.com/Varun2024/Signal-Desk)
+**Your context, your workspace**
+
+A workspace that keeps your context, signals, and tools where you actually work.
+
+`TypeScript` · `Next.js`
+
+</td>
+<td width="50%">
+
+### 🌾 [Kshetrin](https://github.com/Varun2024/kshetrin)
+**Mobile agro utility app**
+
+Cross-platform field-utility app built for agricultural workflows.
+
+`React Native` · `Expo` · `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 Federated Brain Tumor Detection
+**Privacy-preserving medical AI (research)**
+
+Federated learning + CV pipeline for tumor classification, with an interactive Streamlit demo.
+
+`Python` · `PyTorch` · `OpenCV` · `Streamlit`
+
+</td>
+<td width="50%">
+
+### 🎬 [Surveillance Clipping & Transcribe](https://github.com/Varun2024/survellaince-clipping-transcribe)
+**Auto-clip + transcribe long video feeds**
+
+Pipeline for slicing long surveillance footage into events with transcripts attached.
+
+`Python` · `CV` · `ASR`
 
 </td>
 </tr>
@@ -170,22 +201,16 @@ Mobile-first app focusing on performance and UX patterns.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Streak Stats (fixed provider) -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=Varun2024&theme=tokyonight&hide_border=true" />
-
+  <img height="160" src="https://streak-stats.demolab.com?user=Varun2024&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
-
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun2024&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun2024&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
 </div>
+
 
 ---
 
@@ -193,10 +218,11 @@ Mobile-first app focusing on performance and UX patterns.
 
 <div align="center">
 
-**📧 Email:** [varunshukla747@gmail.com](mailto:varunshukla747@gmail.com)  
-**💼 LinkedIn:** [varun-shukla-codes](https://linkedin.com/in/varun-shukla-codes)  
-**🐦 Twitter:** [@TheV_Stack](https://x.com/TheV_Stack)  
-**🌐 Portfolio:** [varunxbuilds.web.app](https://varunxbuilds.web.app/)
+📧 **Email** · [varunshukla747@gmail.com](mailto:varunshukla747@gmail.com)  
+💼 **LinkedIn** · [varun-shukla-codes](https://linkedin.com/in/varun-shukla-codes)  
+🐦 **Twitter / X** · [@TheV_Stack](https://x.com/TheV_Stack)  
+🌐 **Portfolio** · [varunxbuilds.web.app](https://varunxbuilds.web.app/)  
+🏢 **Org** · [@prodigy-ai-flow](https://github.com/prodigy-ai-flow)
 
 </div>
 
@@ -204,6 +230,6 @@ Mobile-first app focusing on performance and UX patterns.
 
 <div align="center">
   <em>"Build interfaces that think — and systems that feel."</em>
-  
-  ⭐ **Open to freelance projects and full-time opportunities** ⭐
+  <br/><br/>
+  ⭐ <strong>Open to freelance work and full-time SDE / AI engineer roles.</strong> ⭐
 </div>
