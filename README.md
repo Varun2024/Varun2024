@@ -1,6 +1,6 @@
 # Varun Shukla
 
-Software engineer — full-stack (TypeScript, React Native, Python), applied AI, agent tooling.
+AI Systems Engineer(TypeScript, React Native, Python), applied AI, agent tooling.
 
 Currently building AI agents and MCP servers at [@prodigy-ai-flow](https://github.com/prodigy-ai-flow), and shipping [bountyindex.in](https://www.bountyindex.in) — a data platform for security researchers. Day job: SDE at Flux-Fortify.
 
