@@ -2,7 +2,7 @@
 
 AI Systems Engineer(TypeScript, React Native, Python), applied AI, agent tooling.
 
-Currently building AI agents and MCP servers at [@prodigy-ai-flow](https://github.com/prodigy-ai-flow), and shipping [bountyindex.in](https://www.bountyindex.in) — a data platform for security researchers. Day job: SDE at Flux-Fortify.
+Currently building AI agents and MCP servers at [@prodigy-ai-flow](https://github.com/prodigy-ai-flow), and shipping [bountyindex.in](https://www.bountyindex.in) ; a data platform for security researchers. Day job: SDE at Flux-Fortify.
 
 I like working beneath the framework: system-level tradeoffs, retrieval infrastructure, and agent harnesses that drive real production systems end-to-end.
 
